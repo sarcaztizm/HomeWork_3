@@ -1,0 +1,15 @@
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\bin\Debug\net6.0\1st_Program.exe
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\bin\Debug\net6.0\1st_Program.deps.json
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\bin\Debug\net6.0\1st_Program.runtimeconfig.json
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\bin\Debug\net6.0\1st_Program.dll
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\bin\Debug\net6.0\1st_Program.pdb
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\1st_Program.csproj.AssemblyReference.cache
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\1st_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\1st_Program.AssemblyInfoInputs.cache
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\1st_Program.AssemblyInfo.cs
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\1st_Program.csproj.CoreCompileInputs.cache
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\1st_Program.dll
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\refint\1st_Program.dll
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\1st_Program.pdb
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\1st_Program.genruntimeconfig.cache
+C:\Users\erici\OneDrive\Документы\C#\HomeWork_3\1st_Program\obj\Debug\net6.0\ref\1st_Program.dll
